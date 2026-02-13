@@ -54,5 +54,5 @@ public class Character {
     }
 }
 ```
-### UML DIAGRAM 
-
+## UML DIAGRAM 
+![alt text](https://github.com/ThezzaSalcedo/SoftEng_Starategy-Pattern_Lab-Assignment-1/blob/main/LabAssign1_UML-Class-Diagram.png)
